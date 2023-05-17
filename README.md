@@ -60,6 +60,12 @@ If the systems do not find the font they default to the sans-serif
 <br/>
 <br/>
 
+## Text Font Weight and Font Style
+
+<br/>
+<br/>
+
+
 ## Text align and indent
 
 <br/>
