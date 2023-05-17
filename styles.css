@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+body{
+    font-family: Helvetica;
+}
+.ff {
+    font-family: Verdana;
+    font-size: 50px;
+}
+.fs{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.gfs{
+    font-family: 'Pacifico', cursive;
+}
+.gfs2{
+    font-family: 'VT323', monospace;
+}
