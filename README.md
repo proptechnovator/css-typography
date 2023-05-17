@@ -46,7 +46,17 @@ Simply reference the font-family you would like to use in the class styles you a
 <br/> 
 
 ## System Fonts
-
+System fonts are those fonts already existing in the user's computers.  This is trending preference since they have 
+<br/>
+* fast load times
+* lead headaches
+* project will look different
+<br/>
+<br/>
+Simply setup the class in the CSS file and assign the font-family and choose the system fonts, so it chooses different fonts for the user operating systems.
+<br/>
+<br/>
+If the systems do not find the font they default to the sans-serif
 <br/>
 <br/>
 
